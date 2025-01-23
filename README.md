@@ -2,3 +2,5 @@
 CRUD en flask-python
 Este repositorio contiene código en Python 
 SQLite
+
+#Cambios realizados por Salva
